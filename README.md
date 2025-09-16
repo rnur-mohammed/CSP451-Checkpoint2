@@ -1,8 +1,6 @@
-# CSP451 CheckPoint 2
+<<<<<<< HEAD
+Conflict test: merged lines from both branches
+- user-authentication branch line
+- database-connection branch line
 
-## Feature: User Authentication
-- Added a login form in `index.html`
-- Implemented client-side validation with JavaScript
-- Ensured form checks username and password
-- Password must be at least 6 characters
-Conflict test: added line from user-authentication branch
+>>>>>>> feature/database-connection
