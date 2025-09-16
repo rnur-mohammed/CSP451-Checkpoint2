@@ -5,3 +5,4 @@
 - Implemented client-side validation with JavaScript
 - Ensured form checks username and password
 - Password must be at least 6 characters
+Conflict test: added line from user-authentication branch
