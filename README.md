@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-Conflict test: merged lines from both branches
-- user-authentication branch line
-- database-connection branch line
-
->>>>>>> feature/database-connection
+# CSP451 CheckPoint 2 Project
+This PR adds the User Authentication feature:
+- Login form on homepage
+- Client-side validation
+- README updated
